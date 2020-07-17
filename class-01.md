@@ -156,3 +156,4 @@ can follow in order to achieve a goal.
 a series of tasks and then work out each step needed
 to complete that task (a flowchart can help).
 
+ https://deannaj401.github.io/reading-notes/.
