@@ -1,7 +1,7 @@
 # 201 Reading Notes
  [201-01](class-01.md) 
 
- 201-02
+ [201-02](class-02.md)
 
  201-03
 
