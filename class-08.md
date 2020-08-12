@@ -68,3 +68,5 @@ none: Elements can touch either side.
 pages can be set to a fixed width or a liquid layout. Liquid Layouts use percentages so that the page is visible no matter what device you view it on. 
 
 The standard is 960-1000 pixel wide
+
+https://deannaj401.github.io/reading-notes/
