@@ -1,0 +1,13 @@
+# What Google Learned From Its Quest to Build the Perfect Team
+
+This article started off recounting Julia Rozovsky's experiences at Yale. She was involved in a study group that was very hard to work with. She figured out the difference when she joined another type of group and realized that she got alot more work done and felt alot better when she was with the second group.
+
+She went on to work at Google and headed  a study called Project Aristotle. The goal of Project Aristotle was to figure out how to build the perfect team.
+
+They studied hundreds of people and hundreds of teams and could not figure out a set pattern as to what made up the perfect team dynamic.
+
+Finally they figured out that it was group norms and social sensitivity that made up the best groups. If a group member feels safe and is allowed to speak up and if others are able to read the cues and body language of others in the group, then this group will be more productive. If only one or two people do all the talking and try to keep control over the group there is less chance of success.
+
+Ultimaley this article talked about how success is built on experiences like emotional interactions and complicated conversations. It is dependent on pschological safety and group norms. 
+
+https://deannaj401.github.io/reading-notes/
