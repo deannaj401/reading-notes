@@ -43,6 +43,7 @@ This is a link to all my reading notes for my software development course at Cod
 ## Code 301 - Intermediate Software Development
 
 [301-01](301readingnotes/class-301-01.md)
+[301-02](301readingnotes/class-301-02.md)
 
 Code 401 - Advanced Software Development
 
