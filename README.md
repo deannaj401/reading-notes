@@ -7,7 +7,9 @@ This is a link to all my reading notes for my software development course at Cod
 **I did not really have any reading notes for this as I absorbed them into my 201 readings**
 
 ## Code 201 - Foundations of Software Development
-
+*These are the readings from 201*
+  * They mostly focus on HTML, JavaScript and CSS
+  
  [201-01](201readingnotes/class-01.md) 
 
  [201-02](201readingnotes/class-02.md)
