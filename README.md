@@ -1,4 +1,13 @@
-# 201 Reading Notes
+# Reading Notes
+
+This is a link to all my reading notes for my software development course at CodeFellows. This is the table of contents. 
+
+## Code 102 - Intro to Software Development
+
+**I did not really have any reading notes for this as I absorbed them into my 201 readings**
+
+## Code 201 - Foundations of Software Development
+
  [201-01](201readingnotes/class-01.md) 
 
  [201-02](201readingnotes/class-02.md)
@@ -29,8 +38,10 @@
 
 [201-15](201readingnotes/class-15.md)
 
+## Code 301 - Intermediate Software Development
+
 [301-01](301readingnotes/class-301-01.md)
 
-
+Code 401 - Advanced Software Development
 
 
