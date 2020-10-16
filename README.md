@@ -48,6 +48,8 @@ This is a link to all my reading notes for my software development course at Cod
 [301-03](301readingnotes/class-301-03.md)
 [301-05](301readingnotes/class-301-05.md)
 [301-06](301readingnotes/class-301-06.md)
+[301-07](301readingnotes/class-301-07.md)
+
 
 Code 401 - Advanced Software Development
 
