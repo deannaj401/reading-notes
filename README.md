@@ -43,17 +43,29 @@ This is a link to all my reading notes for my software development course at Cod
 ## Code 301 - Intermediate Software Development
 
 [301-01](301readingnotes/class-301-01.md)
+
 [301-02](301readingnotes/class-301-02.md)
 
 [301-03](301readingnotes/class-301-03.md)
+
 [301-05](301readingnotes/class-301-05.md)
+
 [301-06](301readingnotes/class-301-06.md)
+
 [301-07](301readingnotes/class-301-07.md)
+
 [301-08](301readingnotes/class-301-08.md)
+
 [301-09](301readingnotes/class-301-09.md)
+
+[301-10](301readingnotes/class-301-10.md)
+
 [301-11](301readingnotes/class-301-11.md)
+
 [301-12](301readingnotes/class-301-12.md)
+
 [301-13](301readingnotes/class-301-13.md)
+
 [301-14](301readingnotes/class-301-14.md)
 
 
